@@ -10,7 +10,11 @@ El sistema deberá permitir observar la distribución resultante sobre un globo 
 
 Integrantes
 Mendoza Lopez Daniel
+
 Ciau Lopez Jose Alfredo Reyes
+
 Pool Sanchez Esteban Roman
+
 Villanueva Cruz Angel David
+
 Estradas Salas Abril Monserrat
